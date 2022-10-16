@@ -22,7 +22,7 @@
     </p>
     <p>
     <h3>Skills:</h3>
-        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alter="c" width="40"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alter="c++" width="40"><img src="https://img.icons8.com/color/48/000000/html-5.png" alter="html" width="40" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alter="java" width="40" >
+        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alter="c" width="40"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alter="c++" width="40"><img src="https://img.icons8.com/color/48/000000/html-5.png" alter="html" width="40" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alter="java" width="40" >
     </p>
  
 
