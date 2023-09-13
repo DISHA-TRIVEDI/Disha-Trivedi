@@ -19,9 +19,9 @@
     <p>
     <h3 align="left"> <img src="https://raw.githubusercontent.com/ank1traj/ank1traj/master/media/Handshake.gif" alter="DISHA-TRIVEDI" width="50"/>Lets get connected!</h3>
     </p>
-    <p>
     <h3>Skills:</h3>
-        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alter="c" width="40"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alter="c++" width="40"><img src="https://img.icons8.com/color/48/000000/html-5.png" alter="html" width="40" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alter="java" width="40" >
+    <p>
+        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alter="c" width="40"> &nbsp <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alter="c++" width="40">&nbsp<img src="https://img.icons8.com/color/48/000000/html-5.png" alter="html" width="40" >&nbsp<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="40">&nbsp<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alter="java" width="40" >&nbsp<img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png"alter="js" width="80" >
     </p>
  
 
