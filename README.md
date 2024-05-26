@@ -5,7 +5,7 @@
 <p>
     <h3>About me:</h3>
  <ul> 
-        <h4>-🔭 Currently studying "Computer Science and Engineering" </h4>
+        <h4>-🔭 Currently pursuing "Computer Science and Engineering" </h4>
         <h4>-😄 Pronoun: She/Her</h4>
         <h4>-🌱 Learning Web Development</h4>
         <h4>-📫 Reach me at @dishatrivedi2003@gmail.com</h4>
